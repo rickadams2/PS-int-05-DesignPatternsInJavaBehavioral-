@@ -1,0 +1,1 @@
+# PS-int-05-DesignPatternsInJavaBehavioral-
